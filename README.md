@@ -28,7 +28,7 @@ Core containers (`Queue`, `Stack`, `Vector`) used throughout the project are han
 ### Build
 
 ```bash
-git clone https://github.com/<your-username>/graph-visualizer.git
+git clone https://github.com/youanesattia/graph-visualizer.git
 cd graph-visualizer
 mkdir build && cd build
 cmake ..
